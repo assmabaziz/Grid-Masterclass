@@ -1,0 +1,9 @@
+.ca-text {
+    text-transform: capitalize;
+}
+.up-text {
+    text-transform: uppercase;
+}
+.n-transform {
+    text-transform: none;
+}
